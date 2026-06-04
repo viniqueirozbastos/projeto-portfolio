@@ -23,7 +23,7 @@
   --fundo-card:#ffffff;
 }
 
-boby {
+body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   line-height: 1.5em;
   background-color: var(--fundo-principal);
@@ -117,7 +117,7 @@ section#detalhes {
 }
 
 article {
-  background-color: var(--fundo-principal);
+  background-color: var(--fundo-card);
   padding: 20px;
   margin: 20px;
   border-radius: 8px;
